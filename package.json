@@ -4,8 +4,15 @@
   "description": "A dynamic form just like google form",
   "main": "index.ts",
   "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mani Prakash Singhal",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vite": "^6.0.11"
+  }
 }

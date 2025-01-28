@@ -1,0 +1,11 @@
+{
+  "name": "googleformassessment",
+  "version": "1.0.0",
+  "description": "A dynamic form just like google form",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mani Prakash Singhal",
+  "license": "ISC"
+}
